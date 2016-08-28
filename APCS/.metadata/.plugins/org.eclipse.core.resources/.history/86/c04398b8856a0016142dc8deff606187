@@ -1,0 +1,36 @@
+
+public class Person {
+	private float xScale;
+	private float yScale;
+	
+	public void draw(Window window) {
+		  window.translate(xScale, yScale);
+		  window.ellipse(50, 250, 50, 50);
+		  window.line(50, 275, 50, 350);
+		  window.line(50, 350, 20, 400);
+		  window.line(50, 350, 80, 400);
+		  window.line(50, 320, 20, 300);
+		  window.line(50, 320, 80, 300);
+	}
+	
+	public void move(Window window)
+	{
+		if (window.keyPressed == true) {
+			System.out.println("key");
+		    if (window.keyCode == 'd') {
+		    	//h.houseUp(this);
+		    	xScale = xScale + 50;
+		    } else if (window.keyCode == 'a') {
+		    	xScale = xScale - 50;
+		    }
+		    else if(window.keyCode == 'w')
+		    {
+		    	yScale = yScale - 50;
+		    }
+		    else if(window.keyCode == 's')
+		    {
+		    	yScale = yScale + 50;
+		    }
+	}
+	}
+}

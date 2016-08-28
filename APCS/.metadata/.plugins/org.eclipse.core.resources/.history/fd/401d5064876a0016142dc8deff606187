@@ -1,0 +1,65 @@
+
+import processing.awt.PSurfaceAWT;
+import processing.core.PApplet;
+import processing.core.PConstants;
+
+import java.awt.Dimension;
+import java.awt.event.MouseEvent;
+
+import javax.swing.JFrame;
+
+/*
+ * multiple classes
+ *	- shape classes
+ *	- window 
+ *	- house
+ *	- main method
+ *	- drawing surface/canvas (extends PApplet)
+ * commenting
+ * variable
+ */
+
+public class House{
+
+	//private int mouseWheel = 0;
+	private float xScale;
+	private float yScale;
+
+	public void draw(Window window) {
+		  window.translate(xScale, yScale);
+		  window.rect(100, 200, 300, 200);
+		  window.rect(150, 250, 50, 50);
+		  window.rect(300, 250, 50, 50);
+		  window.rect(225, 300, 50, 100);
+		  window.triangle(100, 200, 400, 200, 250, 50);
+	}	
+	
+	public void move(Window window)
+	{
+		if (window.key == window.CODED) {
+			System.out.println("key");
+		    if (window.keyCode == window.RIGHT) {
+		    	//h.houseUp(this);
+		    	xScale = xScale + 50;
+		    } else if (window.keyCode == window.LEFT) {
+		    	xScale = xScale - 50;
+		    }
+		    else if(window.keyCode == window.UP)
+		    {
+		    	yScale = yScale - 50;
+		    }
+		    else if(window.keyCode == window.DOWN)
+		    {
+		    	yScale = yScale + 50;
+		    }
+	}
+	}
+}
+
+
+
+
+
+
+
+

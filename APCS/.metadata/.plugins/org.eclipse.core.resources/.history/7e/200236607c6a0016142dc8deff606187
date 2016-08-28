@@ -1,0 +1,12 @@
+
+public class Person {
+	public void draw(Window window) {
+
+		  window.ellipse(50, 250, 50, 50);
+		  window.line(50, 275, 50, 350);
+		  window.line(50, 350, 20, 400);
+		  window.line(50, 350, 80, 400);
+		  window.line(50, 320, 20, 300);
+		  window.line(50, 320, 80, 300);
+	}	
+}

@@ -1,0 +1,838 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>Lars Vogel: Out-of-office settings for Eclipse Bugzilla and Gerrit</title>
+	<guid isPermaLink="false">http://blog.vogella.com/?p=7457</guid>
+	<link>http://blog.vogella.com/2016/08/26/out-of-office-settings-for-eclipse-bugzilla-and-gerrit/</link>
+	<description>&lt;p&gt;As I got several requests how to show an “Out-of-office” in Gerrit and Bugzilla, I documented this in the &lt;a href=&quot;http://www.vogella.com/tutorials/EclipsePlatformDevelopment/article.html#out-of-office-for-gerrit-and-bugzilla&quot;&gt;Eclipse Platform Contribution tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have fun.&lt;/p&gt;</description>
+	<pubDate>Fri, 26 Aug 2016 11:42:33 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Progress Update on IP @ Eclipse</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/VBsznlqJOcQ/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/VBsznlqJOcQ/</link>
+	<description>We are rolling out the new Eclipse Contributor Agreement (ECA).&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/VBsznlqJOcQ&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 26 Aug 2016 06:59:00 +0000</pubDate>
+</item>
+<item>
+	<title>vert.x project: Vert.x fall conferences</title>
+	<guid isPermaLink="true">http://vertx.io/blog/vert-x-fall-conferences</guid>
+	<link>http://vertx.io/blog/vert-x-fall-conferences</link>
+	<description>&lt;article&gt;&lt;p&gt;A lot of Vert.x conferences are planned this fall around the world, here is a quick recap of these events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaZone&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://2016.javazone.no/program/lets-build-a-scalable-async-vert-x-app-in-60-min&quot;&gt;Let’s build a scalable async Vert.x app in &amp;lt; 60 min&lt;/a&gt; - Paulo Lopes (Wednesday, 18:20 - 19:20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Geecon Reactive in Sopot&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://2016.reactive.geecon.org/#bio&quot;&gt;Reactive back-pressure with Vert.x&lt;/a&gt; - Julien Viet (9th of September, 11:45 - 12:30)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;JavaOne&lt;ul&gt;
+&lt;li&gt;Reactive Microservices with Vert.x - Burr Sutter (Thursday, Sep 22, 4:00 p.m. - 5:00 p.m.)&lt;/li&gt;
+&lt;li&gt;Reactive Distributed Applications with Vert.x - Clement Escoffier (Wednesday, Sep 21, 8:30 a.m. - 9:30 a.m.)&lt;/li&gt;
+&lt;li&gt;Vert.x: From Zero to (Micro-) Hero (Hands-on Lab) - Clement Escoffier (Thursday, Sep 22, 12:00 p.m. - 2:00 p.m.)&lt;/li&gt;
+&lt;li&gt;Go Reactive with Vert.x in Oracle Application Container Cloud - Edson Yanaga (Monday, Sep 19, 5:30 p.m. - 6:30 p.m.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reactive Summit&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://reactivesummit2016.sched.org/event/7emt/reactive-polyglot-microservices-with-openshift-and-vertx&quot;&gt;Reactive Polyglot Microservices with OpenShift and Vert.x&lt;/a&gt; - Clement Escoffier (Tuesday, October 4, 11:20am - 12:10pm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Devoxx BE&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.be/2016/talk/BED-6160/Better_performance_with_HTTP%2F2&quot;&gt;Better performance with HTTP/2&lt;/a&gt; - Julien Viet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.be/2016/talk/HKC-9910/Reactive_Microservices_with_Vert.x&quot;&gt;Reactive Microservices with Vert.x&lt;/a&gt; - Edison Yanaga and Burr Sutter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are going at one of these conferences, don’t miss the opportunity to learn more about Vert.x!&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Christian Pontesegger: Oomph 03: Our First Project Setup</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-3460102793186140898.post-2388114787023833214</guid>
+	<link>http://codeandme.blogspot.com/2016/08/oomph-03-our-first-project-setup.html</link>
+	<description>We are going to prepare our first project setup with Oomph.&lt;br /&gt;&lt;br /&gt;Source code for this tutorial is available on github as a &lt;a href=&quot;https://github.com/Pontesegger/codeandme/blob/master/Code%20&amp;amp;%20Me%20Blog/oomph_03_first_project_setup.zip?raw=true&quot;&gt;single zip archive&lt;/a&gt;, as a &lt;a href=&quot;https://github.com/Pontesegger/codeandme/blob/master/Code%20&amp;amp;%20Me%20Blog/oomph_03_first_project_setup.psf?raw=true&quot;&gt;Team Project Set&lt;/a&gt; or you can &lt;a href=&quot;https://github.com/Pontesegger/codeandme/tree/master/oomph/03_first_project_setup&quot; target=&quot;_blank&quot;&gt;browse the files&lt;/a&gt; online.   &lt;br /&gt;&lt;br /&gt;For a list of all Oomph related tutorials see my &lt;a href=&quot;http://codeandme.blogspot.co.at/p/oomph-articles.html&quot; target=&quot;_blank&quot;&gt;Oomph Tutorials Overview&lt;/a&gt;.&lt;a href=&quot;http://codeandme.blogspot.co.at/p/oomph-articles.html&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;u&gt;&lt;b&gt;Step 1: A basic setup file&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;Of course Oomph setups can be created within eclipse. So start with a new &lt;i&gt;General/Project&lt;/i&gt; named &lt;i&gt;com.codeandme.oomph&lt;/i&gt;. Now create a new &lt;i&gt;Oomph&lt;/i&gt; / &lt;i&gt;Setup Project Model&lt;/i&gt;. The wizard will setup all kinds of default tasks for us, but we want to start from scratch to understand all the tasks involved.&lt;br /&gt;&lt;br /&gt;So select a &lt;i&gt;Simple Project&lt;/i&gt;, provide a &lt;i&gt;Label&lt;/i&gt; &quot;Code and me&quot; and &lt;i&gt;Finish&lt;/i&gt; the wizard.&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://4.bp.blogspot.com/-YIHJtPv54xg/V6CiqKd7sKI/AAAAAAAAAq4/M-Sg60DGBDAsO9jXQq3O_M6N3eQhlQg1ACLcB/s1600/oomph_01.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;308&quot; src=&quot;https://4.bp.blogspot.com/-YIHJtPv54xg/V6CiqKd7sKI/AAAAAAAAAq4/M-Sg60DGBDAsO9jXQq3O_M6N3eQhlQg1ACLcB/s320/oomph_01.png&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;The setup file created simply contains a root node for the project and a default stream named &lt;i&gt;Master&lt;/i&gt;.&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://4.bp.blogspot.com/-6vFbK4ZVwp4/V6CjTXy8VyI/AAAAAAAAAq8/62dT1csdyNwZUgNnLJuZbJVzwFxL9ey8wCLcB/s1600/oomph_02.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://4.bp.blogspot.com/-6vFbK4ZVwp4/V6CjTXy8VyI/AAAAAAAAAq8/62dT1csdyNwZUgNnLJuZbJVzwFxL9ey8wCLcB/s1600/oomph_02.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;Not much of a setup yet, but we can already add it to our eclipse installer.&lt;br /&gt;&lt;br /&gt;&lt;u&gt;&lt;b&gt;Step 2: Adding the setup to the installer&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;Launch the eclipse installer from our first tutorial, select an eclipse product and advance to page 2 of the wizard. There hit the + icon on the toolbar, select &lt;i&gt;Browse File System&lt;/i&gt; and select the setup file we just created. The setup will be added to the &lt;i&gt;&amp;lt;User&amp;gt;&lt;/i&gt; node. Not much sense installing our empty setup yet, but now the installer references our setup file and we can test it for each step we add. On each start of the installer the setup file gets reloaded, so you do not have to add the file each time you want to test it.&lt;br /&gt;&lt;u&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/u&gt;&lt;u&gt;&lt;b&gt;Step 3: Adding a simple ini file action&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;One of the simplest actions to add is an ini file adjustment. As you might guess this adds entries to the eclipse.ini file provided with your product installation. Select the &lt;i&gt;Code and me&lt;/i&gt; node in your setup, then use the context menu to add a &lt;i&gt;New Child&lt;/i&gt; / &lt;i&gt;Eclipse ini&lt;/i&gt; task. Now we are going to adjust the task using the &lt;i&gt;Properties&lt;/i&gt; view.&lt;br /&gt;&lt;br /&gt;To change the initial heap size of your Java VM set &lt;i&gt;Option&lt;/i&gt; to &lt;i&gt;-Xms&lt;/i&gt;, &lt;i&gt;Value&lt;/i&gt; to &lt;i&gt;1024m&lt;/i&gt; and &lt;i&gt;VM&lt;/i&gt; to &lt;i&gt;true&lt;/i&gt;. The last parameter is needed for all &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html&quot; target=&quot;_blank&quot;&gt;Java VM properties&lt;/a&gt;. Set it to false when changing any eclipse.ini properties like &lt;i&gt;-showsplash&lt;/i&gt; or similar.&lt;br /&gt;&lt;br /&gt;Make sure to provide a unique &lt;i&gt;ID&lt;/i&gt; and a usable &lt;i&gt;Description&lt;/i&gt;. The IDs are important when we want to refer to a node later in our setup.&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-yNuC-RBzhJs/V6CkpQ2AatI/AAAAAAAAArM/nv9iqNuEnD0ZkpmhOwXBmdCYolrdaQzzQCLcB/s1600/oomph_03.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;210&quot; src=&quot;https://3.bp.blogspot.com/-yNuC-RBzhJs/V6CkpQ2AatI/AAAAAAAAArM/nv9iqNuEnD0ZkpmhOwXBmdCYolrdaQzzQCLcB/s320/oomph_03.png&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;u&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/u&gt;&lt;u&gt;&lt;b&gt;Step 4: Add folders to structure your settings&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;When we start adding multiple ini tasks we should cluster them. Therefore add a new &lt;i&gt;Compound&lt;/i&gt; item to your root node and D&amp;amp;D your ini settings in there. Compounds add more structure to your setup, but have no effect on the installation process.&lt;br /&gt;&lt;br /&gt;&lt;u&gt;&lt;b&gt;Optional: Investigate common tasks&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;The scheme for adding new tasks is the same for all kinds of things. Add a node, adapt its properties, save and run your setup to test it. Good sources for tasks are the existing eclipse project setups. You may browse them by opening the catalog from the toolbar or from the main menu: &lt;i&gt;Navigate&lt;/i&gt; / &lt;i&gt;Open Setup&lt;/i&gt; / &lt;i&gt;Parent Models&lt;/i&gt; / &lt;i&gt;Catalog Index&lt;/i&gt;. We will have a closer look at dedicated tasks in the following tutorials.</description>
+	<pubDate>Thu, 25 Aug 2016 09:54:36 +0000</pubDate>
+	<author>noreply@blogger.com (Christian Pontesegger)</author>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse IoT Day @ ThingMonk | Register Now</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/zD3xjV2vrs4/eclipse-day-talks.html</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/zD3xjV2vrs4/eclipse-day-talks.html</link>
+	<description>Register for the Eclipse IoT Day @ ThingMonk taking place in London on Sept. 12!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/zD3xjV2vrs4&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 23 Aug 2016 15:36:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Progress Update on IP @ Eclipse</title>
+	<guid isPermaLink="false">http://mmilinkov.wordpress.com/?p=1215</guid>
+	<link>https://mmilinkov.wordpress.com/2016/08/22/progress-update-on-ip-eclipse/</link>
+	<description>&lt;p&gt;As promised in &lt;a href=&quot;https://mmilinkov.wordpress.com/2016/08/15/contributor-agreement-update/&quot;&gt;my last post&lt;/a&gt;, today we are rolling out the new &lt;a href=&quot;https://www.eclipse.org/legal/ECA.php&quot; target=&quot;_blank&quot;&gt;Eclipse Contributor Agreement&lt;/a&gt; (ECA). As I mentioned earlier, if you already have an active Eclipse CLA, you don’t have to do anything….your CLA remains active and you can convert to the new agreement when it expires after three years. That said, we think that the new agreement is clearer, and more consistent with the practices of the broader free and open source community.&lt;/p&gt;
+&lt;p&gt;In other news, last Wednesday the Eclipse Foundation Board of Directors approved &lt;a href=&quot;https://mmilinkov.wordpress.com/2016/06/29/overhauling-ip-management-at-the-eclipse-foundation/&quot;&gt;the new IP Policy&lt;/a&gt; that I discussed in late June. This means that by the end of this year, projects at the Eclipse Foundation will be able to pick the type of IP due diligence that they want. If you want to learn more, I strongly suggest that you read &lt;a href=&quot;https://mmilinkov.wordpress.com/2016/06/29/overhauling-ip-management-at-the-eclipse-foundation/&quot;&gt;my previous post&lt;/a&gt; on the topic, and join in the conversation on &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=496959&quot; target=&quot;_blank&quot;&gt;bug 496959&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation continues to enhance its policies and procedures to make it a better place for developers to host their projects. I hope everyone agrees that these are all steps in the right direction.&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://mmilinkov.wordpress.com/category/foundation/&quot;&gt;Foundation&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/mmilinkov.wordpress.com/1215/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/mmilinkov.wordpress.com/1215/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=mmilinkov.wordpress.com&amp;amp;blog=19461799&amp;amp;post=1215&amp;amp;subd=mmilinkov&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 22 Aug 2016 18:01:00 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: EclipseCon Europe – see you in 2 month!</title>
+	<guid isPermaLink="false">http://eclipsesource.com/blogs/?p=27126</guid>
+	<link>http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/</link>
+	<description>&lt;p&gt;After several busy weeks, the PC has finally selected the talks and tutorials for &lt;a href=&quot;https://www.eclipsecon.org/europe2016/&quot;&gt;EclipseCon Europe 2016&lt;/a&gt;. I would like to thank all members of the PC for their great work and all submitters for their proposals.&lt;/p&gt;
+&lt;p&gt;I am sorry we had to reject so many talks. We tried hard to provide a meaningful declined comment, so that people might understand our reasoning. In some cases, it was very difficult to decide though – we liked the submission, but we just liked others a bit more or had to think about the overall balance of topics throughout the conference.&lt;/p&gt;
+&lt;p&gt;It was amazing to see the diversity and quality of the submitted talks. We could have easily extended the conference by one or two days and still filled them with interesting slots. This might be worth a thought for next year.&lt;/p&gt;
+&lt;p&gt;The program reflects the diversity and strength of the Eclipse ecosystem. We are looking forward to interesting sessions about classic Eclipse technologies and tools, a strong web and cloud track, experience reports from industry, science talks and much more. Some special highlights for me are (among others):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The strong Java 9 track, especially the discussion “Jigsaw vs. OSGi” and Eclipse Java 9 support&lt;/li&gt;
+&lt;li&gt;The diverse content about JavaScript, cloud tooling, Angular and much more&lt;/li&gt;
+&lt;li&gt;Talks about cross-cutting topics, such as usability, performance, open source and the community&lt;/li&gt;
+&lt;li&gt;The presence of most major Eclipse projects including the Eclipse Platform, Git CDT, the modeling community and Xtext&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On top of that, we have very good content for the IoT theme day and the project quality day. So be prepared for a hard time when selecting the talks you want to attend at &lt;a href=&quot;https://www.eclipsecon.org/europe2016/&quot;&gt;EclipseCon Europe 2016&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Looking forward to see you in 2 month!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eclipsecon.org/europe2016&quot;&gt;&lt;img alt=&quot;EclipseCon Europe 2016&quot; border=&quot;0&quot; height=&quot;130&quot; src=&quot;https://www.eclipsecon.org/europe2016/sites/default/files/ECEFriendsbright130x130Speaking.jpg&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div style=&quot;display: inline-block;&quot;&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?source=webclient&amp;amp;text=EclipseCon+Europe+%26%238211%3B+see+you+in+2+month%21&amp;amp;via=eclipsesource&amp;amp;url=http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;&lt;img alt=&quot;Twitter&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/twitter.png&quot; title=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;+1&quot;&gt;&lt;img alt=&quot;Google+&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/google_plus.png&quot; title=&quot;Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.linkedin.com/cws/share?url=http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on LinkedIn&quot;&gt;&lt;img alt=&quot;LinkedIn&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/linkedin.png&quot; title=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/&amp;amp;t=EclipseCon+Europe+%26%238211%3B+see+you+in+2+month%21&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot;&gt;&lt;img alt=&quot;Facebook&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/facebook.png&quot; title=&quot;Facebook&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/08/22/eclipsecon-europe-see-you-in-2-month/#respond&quot;&gt;Leave a Comment&lt;/a&gt;. Tagged with &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipsecon/&quot; title=&quot;eclipsecon Tag&quot;&gt;eclipsecon&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipsecon/&quot; title=&quot;eclipsecon Tag&quot;&gt;eclipsecon&lt;/a&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 22 Aug 2016 09:13:19 +0000</pubDate>
+</item>
+<item>
+	<title>Fabio Zadrozny: LiClipse 3.1.0 (updating dependencies)</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-7855001383687474475.post-3258958282366728388</guid>
+	<link>http://liclipse.blogspot.com/2016/08/liclipse-310-updating-dependencies.html</link>
+	<description>LiClipse 3.1.0 was just released.&lt;br /&gt;&lt;br /&gt;The major changes aren't really on LiClipse itself, but on the bundled PyDev (5.2.0) and EGit (4.4.0) plugins.&lt;br /&gt;&lt;br /&gt;PyDev changes may be seen at &lt;a href=&quot;http://pydev.blogspot.com.br/2016/08/pydev-520-released-static-type.html&quot;&gt;http://pydev.blogspot.com.br/2016/08/pydev-520-released-static-type.html&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;EGit changes may be seen at &lt;a href=&quot;https://wiki.eclipse.org/EGit/New_and_Noteworthy&quot;&gt;https://wiki.eclipse.org/EGit/New_and_Noteworthy&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Enjoy!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+	<pubDate>Thu, 18 Aug 2016 13:16:08 +0000</pubDate>
+	<author>noreply@blogger.com (Fabio Zadrozny)</author>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools AM3 for Eclipse Neon</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/am3-for-neon.html</guid>
+	<link>http://tools.jboss.org/blog/am3-for-neon.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Happy to announce AM3 (Developer Milestone 3) build for Eclipse Neon.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Downloads available at &lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/neon/4.4.1.AM3.html&quot;&gt;JBoss Tools 4.4.1 AM3&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock warning&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-warning&quot; title=&quot;Warning&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      A late bug has been discovered in the Docker Tools on the Windows platform. It prevents the Docker Explorer to be displayed and affects also Openshift users.
+      This will be fixed in the next release of JBoss Tools. A workaround exists: after you install JBoss Tools, restart your Eclipse and run
+      &lt;code&gt;Help &amp;gt; Install new software &amp;gt; Work with:&lt;/code&gt; &lt;a class=&quot;bare&quot; href=&quot;http://download.eclipse.org/linuxtools/updates-docker-nightly/&quot;&gt;http://download.eclipse.org/linuxtools/updates-docker-nightly/&lt;/a&gt; &amp;gt; select &lt;code&gt;Docker Tooling&lt;/code&gt; &amp;gt; install. Restart when prompted.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is New?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Full info is at &lt;a href=&quot;http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM3.html&quot;&gt;this page&lt;/a&gt;. Some highlights are below.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;openshift-3&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#openshift-3&quot;&gt;&lt;/a&gt;OpenShift 3&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Although our main focus is bug fixes, we continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here and you can find more details on &lt;a href=&quot;http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM3.html&quot;&gt;the What’s New page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;events&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#events&quot;&gt;&lt;/a&gt;Events&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Events generated as part of the application livecycle are now displayed in the property view under the &lt;code&gt;Events&lt;/code&gt; tab (available at the project level):&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Property view&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-event.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;volume-claims&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#volume-claims&quot;&gt;&lt;/a&gt;Volume claims&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Volume claims are now displayed in the property view under the &lt;code&gt;Storage&lt;/code&gt; tab (available at the project level):&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Property view&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-storage2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Here is a short &lt;a href=&quot;https://www.youtube.com/watch?v=dbre3Bv3R6w&quot;&gt;video&lt;/a&gt; which demonstrates these new features:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;videoblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;docker-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#docker-tools&quot;&gt;&lt;/a&gt;Docker Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;support-for-container-labels&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-container-labels&quot;&gt;&lt;/a&gt;Support for Container Labels&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Users can now specify labels when running a container.
+      The labels are saved in the launch configuration and can also be edited before relaunching the container.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Container Labels&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/docker/images/docker_neon1_sprint118/container_labels.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;docker-hierarchy-view&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#docker-hierarchy-view&quot;&gt;&lt;/a&gt;Docker Hierarchy View&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The new Docker Image Hierarchy view lets the user view the layers for
+      a selected image in the Docker Explorer View.
+      This is especially interesting when an image was built locally, as it helps understanding on which layers the top-level image depends.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Docker Image Hierarchy View&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/docker/images/docker_neon1_sprint118/docker_image_hierarchy_view.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;automatically-detect-known-docker-daemon-connections&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#automatically-detect-known-docker-daemon-connections&quot;&gt;&lt;/a&gt;Automatically detect known Docker daemon connections&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When the Docker Explorer view is opened, the list of existing connections (saved from a previous session) is reloaded.
+      In addition to this behaviour, the view will also attempt to find new connections using default settings such
+      the &amp;amp;aposunix:///var/run/docker.sock&amp;amp;apos Unix socket or the &amp;amp;aposDOCKER_HOST&amp;amp;apos, &amp;amp;aposDOCKER_CERT_PATH&amp;amp;apos and &amp;amp;aposDOCKER_TLS_VERIFY&amp;amp;apos environment
+      variables. This means that by default, in a new workspace, if a Docker daemon is reachable using one of those methods, the
+      user does not have to use the &quot;New Connection&quot; wizard to get a connection.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;extension-point-for-docker-daemon-connection-settings&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#extension-point-for-docker-daemon-connection-settings&quot;&gt;&lt;/a&gt;Extension point for Docker daemon connection settings&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;An extension point has been added to the Docker core plugin to allow for custom connection settings provisionning.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;/a&gt;QuickFixes now available in runtime detection&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Runtime detection has been a feature of JBossTools for a long while, however, it would sometimes create runtime and server adapters with configuration errors without alerting the user. Now, the user will have an opportunity to execute quickfixes before completing the creation of their runtimes and servers.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 1&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;To see this in action, we can first open up the runtime-detection preference page. We can see that our runtime-detection will automatically search three paths for valid runtimes of any type.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once we click search, the runtime-detection’s search dialog appears, with results it has found. In this case, it has located an EAP 6.4 and an EAP 7.0 installation. However, we can see that both have errors. If we click on the error column for the discovered EAP 7.0, the error is expanded, and we see that we’re missing a valid / compatible JRE. To fix the issue, we should click on this item.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 3&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_3.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When we click on the problem for EAP 7, the new JRE dialog appears, allowing us to add a compatible JRE. The dialog helpfully informs us of what the restrictions are for this specific runtime. In this case, we’re asked to define a JRE with a minimum version of Java-8.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 4&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_4.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If we continue along with the process by locating and adding a Java 8 JRE, as shown above, and finish the dialog, we’ll see that all the errors will disappear for both runtimes. In this example, the EAP 6.4 required a JRE of Java 7 or higher. The addition of the Java 8 JRE fixed this issue as well.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 5&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_5.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Hopefully, this will help users preemptively discover and fix errors before being hit with surprising errors when trying to use the created server adapters.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;forge&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge&quot;&gt;&lt;/a&gt;Forge&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;forge-runtime-updated-to-3-3-0-final&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-runtime-updated-to-3-3-0-final&quot;&gt;&lt;/a&gt;Forge Runtime updated to 3.3.0.Final&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The included Forge runtime is now 3.3.0.Final. Read the official announcement &lt;a href=&quot;http://forge.jboss.org/news/jboss-forge-3.3.0.final-is-here&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;startup&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM3/startup.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;added-install-addon-from-the-catalog-command&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#added-install-addon-from-the-catalog-command&quot;&gt;&lt;/a&gt;Added Install addon from the catalog command&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;From Forge 3.3.0.Final onwards it is now possible to query and install addons listed in the &lt;a href=&quot;http://forge.jboss.org/addons&quot;&gt;Forge addons page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;addon install from catalog&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM3/addon-install-from-catalog.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;freemarker&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#freemarker&quot;&gt;&lt;/a&gt;Freemarker&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;/a&gt;Improved automatic finishing of FreeMarker constructs&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When you type &amp;lt;#, &amp;lt;@, ${, #{ and &amp;lt;#-- the freemarker editor now automatically close them.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 17 Aug 2016 16:13:31 +0000</pubDate>
+</item>
+<item>
+	<title>Ned Twigg: Parting out eclipse</title>
+	<guid isPermaLink="false">http://discuss.diffplug.com/c/blog/discuss.diffplug.com-topic-49</guid>
+	<link>http://discuss.diffplug.com/t/parting-out-eclipse/49</link>
+	<description>&lt;p&gt;&lt;a href=&quot;http://discuss.diffplug.com/users/nedtwigg&quot;&gt;@nedtwigg&lt;/a&gt; wrote:&lt;/p&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;Whether your preferred IDE is Eclipse, IntelliJ, or a &lt;a href=&quot;https://xkcd.com/378/&quot;&gt;magnetic needle and a steady hand&lt;/a&gt;, it's undeniable that Eclipse has many valuable components.  Want to parse and analyze Java sourcecode?  &lt;a href=&quot;http://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/core/dom/ASTParser.html&quot;&gt;Easy&lt;/a&gt;.  Want to tinker with building some kind of automatic refactoring tool?  Eclipse has &lt;a href=&quot;http://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/core/dom/rewrite/package-summary.html&quot;&gt;low-level&lt;/a&gt; and &lt;a href=&quot;http://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/core/refactoring/package-summary.html&quot;&gt;high-level&lt;/a&gt; APIs for that.  Eclipse's guts aren't constrainted to just Java, it has similar APIs for &lt;a href=&quot;http://help.eclipse.org/kepler/topic/org.eclipse.wst.jsdt.doc/reference/api/overview-summary.html&quot;&gt;javascript&lt;/a&gt;, C/C++, and probably other stuff that I don't know about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Dingle Dangle! by Grant. C from Flickr https://www.flickr.com/photos/grant_subaru/14175646490/in/photolist-nADTQ7-5JjmY5-5Jf8x2-5JjmHE-6eH3Kf-7JdcJP-5Jf6d4-5Jf8h6-5Jf94F-5Jjo55-5Jf84B-5Jf726-5JjnvG under https://creativecommons.org/licenses/by/2.0/  Modified by Ned Twigg to add &amp;quot;Eclipse&amp;quot; and &amp;quot;Your project&amp;quot; text&quot; height=&quot;424&quot; src=&quot;http://discuss.diffplug.com/uploads/default/original/1X/f8a38c560a88158608a328cc96378b5aa3fbc39d.jpg&quot; width=&quot;507&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, these components are usually not published to a maven repository - they're only published to a p2 repository.  As we've &lt;a href=&quot;http://discuss.diffplug.com/t/p2-maven-and-gradle&quot;&gt;discussed before&lt;/a&gt;, almost nobody knows how to use p2, which means that one of the hardest parts of using an eclipse component is just figuring out how to get the jar into your build.&lt;/p&gt;
+
+&lt;p&gt;So let's say we wanted to take the code formatter out of eclipse and use it to make a &lt;a href=&quot;https://github.com/diffplug/spotless&quot;&gt;lightweight code formatting tool&lt;/a&gt;, with Gradle as our build system.  How would we do it?&lt;/p&gt;
+
+&lt;h2&gt;Grab pieces from eclipse&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/diffplug/goomph&quot;&gt;goomph&lt;/a&gt; project has a &lt;code&gt;p2.asmaven&lt;/code&gt; plugin which tricks Gradle into thinking that a p2 repository is really a maven repository.  It looks like this in your &lt;code&gt;build.gradle&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;plugins {
+    id 'com.diffplug.gradle.p2.asmaven' version '3.0.6'
+}
+
+// The jars we'd like to pull from Eclipse's p2 repositories
+def eclipseDeps = [
+    // The dependencies we actually use
+    'org.eclipse.jdt.core',
+    'org.eclipse.text',
+
+    // Their transitives
+    'org.eclipse.core.contenttype',
+    'org.eclipse.core.jobs',
+    'org.eclipse.core.runtime',
+    'org.eclipse.core.resources',
+    'org.eclipse.equinox.common',
+    'org.eclipse.equinox.preferences',
+    'org.eclipse.osgi'
+]
+// build a maven repo in our build folder containing these artifacts
+p2AsMaven {
+    group 'p2', {
+        repoEclipse '4.6.0'
+        eclipseDeps.each { p2.addIU(it) }
+        eclipseDeps.each { p2.addIU(it + '.source') }
+    }
+}
+// add these jars as dependencies
+dependencies {
+    eclipseDeps.each { compile &quot;p2:${it}:+&quot; }
+}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You're probably asking, &quot;Why do I have to manually specify the transitive dependencies!?&quot;  And the answer is that p2 and maven's dependency models don't map onto each other that nicely.  Goomph &lt;a href=&quot;https://github.com/diffplug/goomph/issues/5&quot;&gt;might support this in the future&lt;/a&gt;, but for now it's not &lt;em&gt;so&lt;/em&gt; bad having to list them out by hand.&lt;/p&gt;
+
+&lt;h2&gt;Figure out how to use the eclipse piece&lt;/h2&gt;
+
+&lt;p&gt;Eclipse projects generally have fantastic javadoc, but it can be hard to figure out where to go to get help and discuss the project.  Here's the algorithm I recommend to get help:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Check the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi&quot;&gt;eclipse bugzilla&lt;/a&gt;.  It's not the prettiest, but there's a wealth of information there, and the core developers are very active.&lt;/li&gt;
+&lt;li&gt;Check the &lt;a href=&quot;https://dev.eclipse.org/mailman/listinfo&quot;&gt;mailing lists&lt;/a&gt;.  They all have searchable archives.&lt;/li&gt;
+&lt;li&gt;Check the &lt;a href=&quot;https://www.eclipse.org/forums/?&quot;&gt;forums&lt;/a&gt;.  They're generally geared more towards end-users than developers, which is why I recommend checking bugzilla and the mailing lists first, but sometimes there's something good there.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you want to see what's in the process of getting merged in, take a look at the &lt;a href=&quot;https://git.eclipse.org/r/#/admin/projects/&quot;&gt;Eclipse gerrit instance&lt;/a&gt;, but gerrit's not particularly beginner-friendly.&lt;/p&gt;
+
+&lt;h2&gt;Publish your thing&lt;/h2&gt;
+
+&lt;p&gt;If you're going to publish your thing to a public repository like maven central, you'd normally specify your dependencies in your pom.  However, it's important for all of your dependencies to also be present within that repository, and your eclipse dependencies are not.  The easiest way to fix that is to embed the classfiles from eclipse into your jar (a &quot;fat jar&quot;), and remove them from your maven pom.  Here's how:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;// embed the eclipse jars into our &quot;fat jar&quot;
+jar {
+    from {
+        configurations.embeddedJars.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    // the eclipse jars are signed, and our fat jar breaks the signatures
+    // so we've gotta be sure to filter out the signatures
+    exclude 'META-INF/*.RSA'
+    exclude 'META-INF/*.SF'
+}
+
+// remove the embedded jars from our pom
+apply plugin: 'maven-publish'
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+            pom.withXml {
+                asNode().dependencies.'*'.each() {
+                    if (it.groupId.text() == 'p2') {
+                        it.parent().remove(it)
+                    }
+                }
+...&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you'd like to see a working example, check out &lt;a href=&quot;https://github.com/diffplug/spotless&quot;&gt;Spotless&lt;/a&gt;.  Just clone it and run &lt;code&gt;gradlew ide&lt;/code&gt;, and you'll have a working eclipse IDE where you can play with the topics in this post.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/DiffPlug&quot;&gt;Follow @DiffPlug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/NedTwigg&quot;&gt;Follow @NedTwigg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;http://discuss.diffplug.com/c/blog&quot;&gt;Blog&lt;/a&gt;, echoed on &lt;a href=&quot;https://medium.com/diffplug&quot;&gt;Medium&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/DiffPlug&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/blockquote&gt;
+            &lt;p&gt;Posts: 1&lt;/p&gt;
+            &lt;p&gt;Participants: 1&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;http://discuss.diffplug.com/t/parting-out-eclipse/49&quot;&gt;Read full topic&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 17 Aug 2016 15:12:14 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse Newsletter - Eclipse Che: A New Eclipse IDE</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/U8BAYRa8UCo/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/U8BAYRa8UCo/</link>
+	<description>Read this month's newsletter to learn all about Eclipse Che!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/U8BAYRa8UCo&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 17 Aug 2016 14:07:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Contributor Agreement Update</title>
+	<guid isPermaLink="false">http://mmilinkov.wordpress.com/?p=1210</guid>
+	<link>https://mmilinkov.wordpress.com/2016/08/15/contributor-agreement-update/</link>
+	<description>&lt;p&gt;In addition to &lt;a href=&quot;https://mmilinkov.wordpress.com/2016/06/29/overhauling-ip-management-at-the-eclipse-foundation/&quot;&gt;overhauling our IP processes&lt;/a&gt;, next week the Eclipse Foundation will be updating our contributor agreements. The changes we’ll be making include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Rename the CLA to the “Eclipse Contributor Agreement” or “ECA”. The reason we’re doing that is that in many circles within the free and open source community “CLA” has a negative connotation, as many CLAs require authors to assign ownership of their contributions to some entity. Eclipse does not do this, nor ever intends to do so. We have had a number of instances where people have assumed that our CLA does something it doesn’t, just because of the name. Hopefully a different TLA will help with that.&lt;/li&gt;
+&lt;li&gt;The current CLA basically copies and rephrases the Eclipse Contributor &lt;a href=&quot;http://www.eclipse.org/legal/CoO.php&quot;&gt;Certificate of Originality&lt;/a&gt; (CoO). It would be a lot easier to simply embed a direct copy of the relevant text in the ECA.&lt;/li&gt;
+&lt;li&gt;The Eclipse Foundation has its own CoO. We have had a number of requests to move to the Linux Foundation’s &lt;a href=&quot;http://developercertificate.org/&quot;&gt;Developer Certificate of Origin&lt;/a&gt; (DCO), as it is widely adopted and well understand by the broad community of open source producers and consumers. So we are going to do that.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We do not consider these changes to be a big deal from a legal perspective — the end result of good record-keeping and clear IP flows remain the same. As a result, everyone with existing Eclipse CLAs will continue to use those until they expire. We are hoping that these changes will not cause any disruption to our existing contributor work flow.&lt;/p&gt;
+&lt;p&gt;Please let me know if you have any questions or concerns!&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://mmilinkov.wordpress.com/category/foundation/&quot;&gt;Foundation&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/mmilinkov.wordpress.com/1210/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/mmilinkov.wordpress.com/1210/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=mmilinkov.wordpress.com&amp;amp;blog=19461799&amp;amp;post=1210&amp;amp;subd=mmilinkov&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 15 Aug 2016 12:30:00 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: Data Virtualization Tooling now available on Mars</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/integration-stack-4.3.1.Final.html</guid>
+	<link>http://tools.jboss.org/blog/integration-stack-4.3.1.Final.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Try our complete Eclipse-Mars capable, JBDS 9.1.0 compatible integration tooling.&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;jbosstools jbdevstudio blog header&quot; src=&quot;http://tools.jboss.org/blog/images/jbosstools-jbdevstudio-blog-header.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;title&quot;&gt;&lt;strong&gt;JBoss Tools Integration Stack&lt;/strong&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock caution&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-caution&quot; title=&quot;Caution&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      Since JBoss Tools 4.3.0 we require Java 8 for the installation and use of all JBoss Tools, including the Integration Stack tooling.  We still support developing and running applications using older Java runtimes. See more in &lt;a href=&quot;http://tools.jboss.org/blog/2015-06-23-beta1-for-mars.html#java-8-to-run-eclipse-older-runtimes-ok-for-builds-deployment&quot;&gt;Beta1 blog&lt;/a&gt;.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;JBoss Tools Integration Stack 4.3.1.Final / JBoss Developer Studio Integration Stack 9.0.1.GA&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-an-integration-stack&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-an-integration-stack&quot;&gt;&lt;/a&gt;What’s an Integration Stack?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Integration Stack for JBoss Developer Studio is a set of features and plugins for Eclipse that further enhances the IDE development functionality provided by JBoss Developer Studio in support of the following frameworks:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      All of the Integratioon Stack components have been verified to work with the same dependencies as JBoss Tools 4.3 and Developer Studio 9.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-fuse-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-fuse-development&quot;&gt;&lt;/a&gt;JBoss Fuse Development&lt;/h3&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/apachecamel.html&quot;&gt;Fuse Tooling&lt;/a&gt; - JBoss Fuse Development provides tooling for Red Hat JBoss Fuse.  It features the latest versions of the Fuse Data Transformation tooling, SwitchYard and access to the Fuse SAP Tool Suite.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/switchyard.html&quot;&gt;SwitchYard&lt;/a&gt; - A lightweight service delivery framework providing full lifecycle support for developing, deploying, and managing service-oriented applications.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-business-process-and-rules-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-business-process-and-rules-development&quot;&gt;&lt;/a&gt;JBoss Business Process and Rules Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Business Process and Rules Development plug-ins provide design, debug and testing tooling for developing business processes for Red Hat JBoss BRMS and Red Hat JBoss BPM Suite.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/bpel.html&quot;&gt;BPEL Designer&lt;/a&gt; - Orchestrating your business processes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/bpmn2.html&quot;&gt;BPMN2 Modeler&lt;/a&gt; - A graphical modeling tool which allows creation and editing of Business Process Modeling Notation diagrams using graphiti.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/drools.html&quot;&gt;Drools&lt;/a&gt; - A Business Logic integration Platform which provides a unified and integrated platform for Rules, Workflow and Event Processing including KIE.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/jbpm.html&quot;&gt;jBPM6&lt;/a&gt; - A flexible Business Process Management (BPM) suite.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-data-virtualization-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-data-virtualization-development&quot;&gt;&lt;/a&gt;JBoss Data Virtualization Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Data Virtualization Development plug-ins provide a graphical interface to manage various aspects of Red Hat JBoss Data Virtualization instances, including the ability to design virtual databases and interact with associated governance repositories.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/teiiddesigner.html&quot;&gt;Teiid Designer&lt;/a&gt; - A visual tool that enables rapid, model-driven definition, integration, management and testing of data services without programming using the Teiid runtime framework.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/modeshape.html&quot;&gt;ModeShape&lt;/a&gt; - A distributed, hierarchical, transactional and consistent data store with support for queries, full-text search, events, versioning, references, and flexible and dynamic schemas. It is very fast, highly available, extremely scalable, and it is 100% open source.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      &lt;strong&gt;ModeShape is deprecated.&lt;/strong&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-integration-and-soa-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-integration-and-soa-development&quot;&gt;&lt;/a&gt;JBoss Integration and SOA Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Integration and SOA Development plug-ins provide tooling for developing, configuring and deploying BRMS, SwitchYard and Fuse applications to Red Hat JBoss Fuse Service Works, Red Hat JBoss Fuse and Fuse Fabric containers, Apache ServiceMix, and Apache Karaf instances.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;All of the Business Process and Rules Development plugins, plus…​&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/apachecamel.html&quot;&gt;Fuse Apache Camel Tooling&lt;/a&gt; - A graphical tool for integrating software components that works with Apache ServiceMix, Apache ActiveMQ, Apache Camel and the FuseSource distributions.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/switchyard.html&quot;&gt;SwitchYard&lt;/a&gt; - A lightweight service delivery framework providing full lifecycle support for developing, deploying, and managing service-oriented applications.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;soa-5-x-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#soa-5-x-development&quot;&gt;&lt;/a&gt;SOA 5.x Development&lt;/h3&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      &lt;strong&gt;Please note that the plugins in this category have been deprecated.&lt;/strong&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.jboss.org/jbossesb&quot;&gt;JBoss ESB&lt;/a&gt; - An enterprise service bus for connecting enterprise applications and services.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.com/jbpm/v3.2/userguide/html_single/&quot;&gt;jBPM3&lt;/a&gt; - A flexible Business Process Management (BPM) Suite - JBoss Enterprise SOA Platform 5.3.x compatible version.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-been-updated-for-this-release&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-been-updated-for-this-release&quot;&gt;&lt;/a&gt;What’s Been Updated for this release?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The highlight of this release is tooling support for &lt;a href=&quot;https://access.redhat.com/documentation/en/red-hat-jboss-data-virtualization/&quot;&gt;JBoss Data Virtualization 6.3.0&lt;/a&gt; on Eclipse Mars with &lt;a href=&quot;http://tools.jboss.org/features/teiiddesigner.html&quot;&gt;Teiid Designer&lt;/a&gt;.  In addition a new spin of an Early Access version of Fuse Tooling is available.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;released-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#released-tooling-highlights&quot;&gt;&lt;/a&gt;Released Tooling Highlights&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;data-virtualization-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#data-virtualization-highlights&quot;&gt;&lt;/a&gt;Data Virtualization Highlights&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;teiid-designer-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#teiid-designer-highlights&quot;&gt;&lt;/a&gt;Teiid Designer Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the &lt;a href=&quot;https://access.redhat.com/articles/2505131#teiid-designer-1001final-4&quot;&gt;Teiid Designer 10.0.1.Final Release Notes&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;soa-5-x-development-2&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#soa-5-x-development-2&quot;&gt;&lt;/a&gt;SOA 5.x Development&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss ESB, jBPM3 and guvnor.  &lt;strong&gt;These tools have been deprecated.&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;early-access-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#early-access-tooling-highlights&quot;&gt;&lt;/a&gt;Early Access Tooling Highlights&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;jboss-fuse-development-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-fuse-development-highlights&quot;&gt;&lt;/a&gt;JBoss Fuse Development Highlights&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;fuse-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#fuse-tooling-highlights&quot;&gt;&lt;/a&gt;Fuse Tooling Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the &lt;a href=&quot;https://access.redhat.com/articles/2505131#fuse-800beta4-6&quot;&gt;Fuse Tooling 8.0.0.Beta4 Release Notes&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;the-jboss-tools-website-features-tab&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#the-jboss-tools-website-features-tab&quot;&gt;&lt;/a&gt;The JBoss Tools website features tab&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Don’t miss the &lt;a href=&quot;http://tools.jboss.org/features&quot;&gt;Features tab&lt;/a&gt; for up to date information on your favorite Integration Stack components.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The easiest way to install the Integration Stack components is to first install &lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/mars/4.3.1.Final.html&quot;&gt;JBoss Tools 4.3.1&lt;/a&gt; or &lt;a href=&quot;http://tools.jboss.org/downloads/devstudio/mars/9.1.0.GA.html&quot;&gt;JBoss Developer Studio 9.1.0&lt;/a&gt; and then select the Software/Update tab in the JBoss Central view.  Select the &amp;amp;aposEnable Early Access&amp;amp;apos checkbox.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For a complete set of Integration Stack installation instructions, see &lt;a href=&quot;https://access.redhat.com/documentation/en-US/Red_Hat_JBoss_Developer_Studio_Integration_Stack/9.0/html/Install_Red_Hat_JBoss_Developer_Studio_Integration_Stack/index.html&quot;&gt;Integration Stack Installation Instructions&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Try it out!&lt;/em&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Paul Leacu.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 11 Aug 2016 16:11:07 +0000</pubDate>
+</item>
+<item>
+	<title>Doug Schaefer: See you in Ludwigsburg at EclipseCon Europe!</title>
+	<guid isPermaLink="false">http://cdtdoug.ca/?p=768</guid>
+	<link>https://cdtdoug.ca/2016/08/11/see-you-in-ludwigsburg-at-eclipsecon-europe/</link>
+	<description>&lt;p&gt;It’s been many years since I’ve been to EclipseCon Europe. It hasn’t been from a lack of desire. There’s just been a few personal and business reasons that made it difficult. But this year, the road is clear and my talk, &lt;a href=&quot;https://www.eclipsecon.org/europe2016/session/arduino-qt-and-iot-eclipse-c-ide&quot;&gt;“Arduino, Qt, and Iot with the Eclipse C++ IDE”&lt;/a&gt; has been accepted as one of the early bird selections. I was really proud of that and can’t wait to get there.&lt;/p&gt;
+&lt;p&gt;This last year or so has been a very active one for me and the team here at QNX with our contributions to Eclipse. The Launch Bar, which proved popular with BlackBerry 10 developers, has been made more general and is now hosted at Eclipse for all projects to use. It greatly simplifies the launch and build experience, especially when dealing with remote machines.&lt;/p&gt;
+&lt;p&gt;We are actively working on support in CDT for Qt, which has proven popular with QNX customers and other embedded systems developers. The highlight is the addition of a QML editor which we will continue to add content assist and other features expected of good Eclipse editors. While these things are good for QNX users, we think these things will be good for all users of Eclipse and also support Qt on Windows, Mac, and Linux.&lt;/p&gt;
+&lt;p&gt;I have switched my personal focus on embedded real-time systems and working on making Eclipse and the CDT much easier for developers making software for those systems. My Arduino C++ IDE bridges the gap between professional embedded developers and the hobbyist working with Arduino boards. It’s a great exercise in providing a user experience that can satisfy both and I think we’re making strides there.&lt;/p&gt;
+&lt;p&gt;My talk will attempt to cover all of that. It’s a tall order, but I have a simple, yet somewhat contrived example that shows an Arduino board with sensors and lights talking to a BeagleBone board running QNX with a touchscreen showing status from the board. The BeagleBone then communicates with a MQTT server which is watched by a vertx.x Web server to show the same information on web page. All of that is built with Eclipse and the massive ecosystem we’ve built over the years. It’s a great showcase.&lt;/p&gt;
+&lt;p&gt;It should be a great time. It’ll be good to see a lot of my European friends I haven’t seen for years or have only met on mailing lists or who I’ve never met but have an interest in the CDT and other Eclipse IDE projects. We have a &lt;a href=&quot;https://wiki.eclipse.org/CDT/summitece2016&quot;&gt;CDT summit planned for the Monday&lt;/a&gt; and I hope to see everyone there and share what we’re planning and to see what you’re interested in.&lt;/p&gt;
+&lt;p&gt;It will be a great week. And n&lt;span style=&quot;line-height: 1.71429; font-size: 1rem;&quot;&gt;ow I really can’t wait!&lt;/span&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 11 Aug 2016 14:53:14 +0000</pubDate>
+</item>
+<item>
+	<title>Alex Blewitt: Moving on</title>
+	<guid isPermaLink="false">http://alblue.bandlem.com/2016/08/moving-on</guid>
+	<link>http://alblue.bandlem.com/2016/08/moving-on.html</link>
+	<description>&lt;p&gt;I’ve been working for the last decade in the finance industry in London, most
+recently at Credit Suisse where I was the &lt;a href=&quot;https://twitter.com/jcp_org/status/763041436983922688&quot;&gt;JCP Executive Committe representative&lt;/a&gt;, attending meetings and voting on behalf of the firm.
+(You can see more information about &lt;a href=&quot;https://jcp.org/en/participation/committee&quot;&gt;what makes up the JCP EC&lt;/a&gt;; there are representatives from companies such as Azul, Eclipse, RedHat and Twitter as well as user groups such as SouJava and the London Java Community – along with big users of Java technology, such as Credit Suisse and Goldman Sachs.)&lt;/p&gt;
+
+&lt;p&gt;Working in finance has always been an interesting challenge, with a scale of
+computing resources unknown outside of a small set of cloud-scale technology
+companies. Furthermore time tends to be profitable which means large scale
+computing and/or meaty hardware, which from a technology perspective comes with
+its own challenges and interesting solutions. I’ve heard it said that some
+companies in the finance industry, if they were considered to be technology
+companies rather than financial houses, that they would be the biggest
+technology firms in the city.&lt;/p&gt;
+
+&lt;p&gt;The other thing that I’ve enjoyed has been &lt;a href=&quot;http://alblue.bandlem.com/Tag/book/&quot;&gt;writing books&lt;/a&gt;, speaking at &lt;a href=&quot;http://alblue.bandlem.com/Tag/conference/&quot;&gt;conferences&lt;/a&gt;, and &lt;a href=&quot;http://www.infoq.com/author/Alex-Blewitt&quot;&gt;writing for InfoQ&lt;/a&gt; – not to
+mention the &lt;a href=&quot;http://github.com/alblue/&quot;&gt;open source contributions&lt;/a&gt;
+that I’ve been doing over the years. Thanks to my previous employers for
+being understanding. It has also helped launch the
+&lt;a href=&quot;http://docklandsljc.uk&quot;&gt;Docklands.LJC&lt;/a&gt;, which has entered its teens
+and had speakers from across the globe come and talk to interested attendees
+from around the Wharf.&lt;/p&gt;
+
+&lt;p&gt;However, the time has come for me to move on, and at the end of this week I
+start somewhere new. It’s a well known technology company that you will have
+heard of, but it’s an ideal move for me and I am definitely looking forward
+to the challenges that lie ahead. My &lt;a href=&quot;http://www.linkedin.com/in/alblue&quot;&gt;LinkedIn profile&lt;/a&gt; has me as a Director of Bandlem Ltd, which is my own company,
+but I need to verify what I can (and can’t) say before I say it publicly. As
+a result, and with the ramp up of the new role, I may be slightly quieter than
+usual here and &lt;a href=&quot;http://twitter.com/alblue&quot;&gt;on Twitter&lt;/a&gt; for the near
+future, but the good news is that I will be &lt;a href=&quot;http://alblue.bandlem.com/2016/08/conference-speaking.html&quot;&gt;speaking&lt;/a&gt;
+at both &lt;a href=&quot;https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&amp;amp;search=blewitt&amp;amp;search.event=javaone&quot;&gt;JavaOne&lt;/a&gt;
+and &lt;a href=&quot;https://www.eclipsecon.org/europe2016/session/optimising-eclipse-plug-ins&quot;&gt;EclipseCon&lt;/a&gt; later this year, as an independent speaker.&lt;/p&gt;
+
+&lt;p&gt;It also means that I will be handing over the reins of the &lt;a href=&quot;http://docklandsljc.uk&quot;&gt;Docklands.LJC&lt;/a&gt; to my co-founder &lt;a href=&quot;http://twitter.com/barr_robert&quot;&gt;Robert Barr&lt;/a&gt;, who will take over the
+organisation of events in the Docklands. Hopefully I’ll still be able to
+come over to them in the future, time permitting, so I may well see you at
+future events over there.&lt;/p&gt;
+
+&lt;p&gt;I will also be taking a sabbatical from &lt;a href=&quot;http://www.infoq.com/author/Alex-Blewitt&quot;&gt;writing at InfoQ&lt;/a&gt; for the time
+being; although my writing output has dropped (both here on the blog and at
+InfoQ), which I put down to having spent so long writing books. It will be
+an interesting exercise to see what I will do with free time in the evenings
+now.&lt;/p&gt;
+
+&lt;p&gt;I’m really looking forward to where I’m going, and I can’t wait to start.&lt;/p&gt;</description>
+	<pubDate>Thu, 11 Aug 2016 09:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Ctrlflow: Integrate Automated Error Reporting into Your Software</title>
+	<guid isPermaLink="false">https://blog.ctrlflow.com/?p=137</guid>
+	<link>https://blog.ctrlflow.com/integrate-automated-error-reporting-java/</link>
+	<description>&lt;p&gt;With Ctrlflow Automated Error Reporting it is easy to integrate a professional error reporting system into your Java software, be it an Eclipse plug-in or a full-blown desktop application. As of this writing, there exist several client libraries (all of them Open Source) which you can use to send error reports to your personal instance of the Ctrlflow Automated Error Reporting service. This post briefly describes each of them, so that you can pick the one that works for your software. Developing Eclipse Plug-Ins? If you are developing a plug-in for the Eclipse IDE, there’s an obvious choice: Integrate with […]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.ctrlflow.com/integrate-automated-error-reporting-java/&quot; rel=&quot;nofollow&quot;&gt;Integrate Automated Error Reporting into Your Software&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.ctrlflow.com&quot; rel=&quot;nofollow&quot;&gt;Ctrlflow Blog&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 10 Aug 2016 19:48:23 +0000</pubDate>
+</item>
+<item>
+	<title>Alex Blewitt: EclipseCon and JavaOne presentations</title>
+	<guid isPermaLink="false">http://alblue.bandlem.com/2016/08/conference-speaking</guid>
+	<link>http://alblue.bandlem.com/2016/08/conference-speaking.html</link>
+	<description>&lt;p&gt;It’s a busy season on the conference circuit, it seems. I’ve been giving
+a few presentations at the &lt;a href=&quot;http://docklandsljc.uk/Tag/alex-blewitt/&quot;&gt;Docklands.LJC&lt;/a&gt; recently, and I’ve also been accepted as a speaker at JavaOne
+in September and EclipseCon Europe in October.&lt;/p&gt;
+
+&lt;p&gt;The presentations from the Docklands.LJC have been recorded, and the videos
+are slowly making their way &lt;a href=&quot;http://www.infoq.com/docklands-ljc/&quot;&gt;over to InfoQ&lt;/a&gt;. Generally the InfoQ versions are more professional, as they have
+synchronized slides to go along with the video recording, but they’re also
+available as early rushes over on the Docklands.LJC site itself.&lt;/p&gt;
+
+&lt;p&gt;If you’ve missed them, here’s what I’ve been talking about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://docklandsljc.uk/2016/01/modular-java.html&quot;&gt;Modular Java with OSGi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://docklandsljc.uk/2016/06/hotspot-hood-microbenchmarking-java.html&quot;&gt;HotSpot Under the Hood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://docklandsljc.uk/2016/06/unicode-cuddly-application-server.html&quot;&gt;A Brief History of Unicode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=NH-qIKOoKgA&quot;&gt;Introduction to the Swift Intermediate Language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The presentations are also available &lt;a href=&quot;http://speakerdeck.com/alblue&quot;&gt;on my SpeakerDeck pages&lt;/a&gt; if you find that’s an easier way to look through them.
+Plus, they might show up better if you’re on a mobile device. When the
+presentation decks for the other conference sessions are avaialble, they’ll
+appear here as well.&lt;/p&gt;
+
+&lt;p&gt;My upcoming talks include:&lt;/p&gt;
+
+&lt;h2&gt;JavaOne – September&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;b&gt;HotSpot Under the Hood&lt;/b&gt; – an introduction to how the HotSpot runtime
+optimised Java calls, how the interpreter and JIT compiler work together to
+make your programs run faster, and how to interpret what code is generated
+when an application runs. This is known as &lt;a href=&quot;https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&amp;amp;search=blewitt&amp;amp;search.event=javaone&quot;&gt;CON3808&lt;/a&gt; on the JavaOne 2016 Session Catalog, but there doesn’t appear to be an easy way to link to it. From the abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Have you ever wondered how the JVM works under the covers? How the JVM is able to JIT-optimize the bytecode classes and what the generated output looks like? This session shows how a compiled Java class is loaded in memory, when the JIT optimizations occur, and what the generated assembly looks like for hot code in the JVM. The presentation also looks at current object layouts, how the memory settings affect how objects are stored, and what effects this can have for high-performance Java code.&lt;/blockquote&gt;
+
+
+&lt;p&gt;You can &lt;a href=&quot;https://www.oracle.com/javaone/register/index.html&quot;&gt;register for the conference now&lt;/a&gt; and save yourself some money before the price goes up.&lt;/p&gt;
+
+&lt;h2&gt;EclipseCon Europe – October&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;b&gt;Optimising Eclipse Plug-ins&lt;/b&gt; – a look at common patterns and anti-patterns when writing plug-in code, and the tools and resources that are at your disposal as an Eclipse plug-in author in finding out how to identify and fix these issues. It’s currently scheduled for &lt;a href=&quot;http://www.eclipsecon.org/europe2016/session/optimising-eclipse-plug-ins&quot;&gt;Thursday at 11&lt;/a&gt; but this may change nearer thetime; so watch out for it on the schedule. From the abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+In this presentation, Alex will talk about optimising Java code in the context of Eclipse plug-ins, and demonstrate some of the tools that come with every JVM that can be used to inspect the state of a Java process. He will also present some Eclipse specific tools such as MAT and the show how some common patterns (and anti-patterns) can be found in existing plug-in code, and how they can be improved. By the end of this talk, the attendees should have a good idea of what tools are at their disposal and be able to apply that knowledge to reduce the memory footprint or perceived run-time by end users.&lt;/blockquote&gt;
+
+
+&lt;p&gt;You can &lt;a href=&quot;https://www.eclipsecon.org/europe2016/registration&quot;&gt;register for the conference now&lt;/a&gt; and save yourself some money before the price goes up.&lt;/p&gt;</description>
+	<pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: EMF Forms 1.9.0 Feature: Ecore Editor Reloaded … again</title>
+	<guid isPermaLink="false">http://eclipsesource.com/blogs/?p=27090</guid>
+	<link>http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;With Neon, we released EMF Forms 1.9.0. &lt;/span&gt;&lt;a href=&quot;https://www.eclipse.org/ecp/emfforms/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EMF Forms&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; makes it really simple to create forms which edit your data based on an EMF model. To get started with EMF Forms please refer to &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/tutorials/getting-started-with-EMF-Forms/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;our tutorial&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. In this post, we wish to outline one major highlight of release 1.9.0: &lt;/span&gt;&lt;b&gt;a new version of the Ecore editor and a generic editor based on EMF Forms.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are following this blog, you might think this sounds familiar. We have actually already introduced the new editor framework in version 1.8.0. Please see &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/02/11/emf-forms-1-8-0-feature-ecore-editor-reloaded/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;this post&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for the initial introduction of the feature. However, with 1.9.0, we have improved those editors based on the feedback from several adopters. Therefore, we have now included the EMF Forms editors in our standard SDK, which makes them available in the Eclipse Neon Modeling Edition. So, if you use Neon, you can just right click any Ecore and select the “Ecore Editor” to use the new version.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image15.png&quot;&gt;&lt;img alt=&quot;image15&quot; class=&quot;alignnone size-full wp-image-27091&quot; height=&quot;327&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image15.png&quot; width=&quot;674&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image09.png&quot;&gt;&lt;img alt=&quot;image09&quot; class=&quot;alignnone size-full wp-image-27092&quot; height=&quot;291&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image09.png&quot; width=&quot;781&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We provide an alternative version of the good-old &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/02/11/emf-forms-1-8-0-feature-ecore-editor-reloaded/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ecore editor, the Genmodel editor&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and, probably most exciting: A generic editor, which can be used as a basis to implement tooling for your custom model. It is basically a replacement of the well-known “generated editor”, but it provides much more. Without any code generation you get a fully featured editor for you custom model, which can be customized using the full power of the &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/tutorials/getting-started-with-EMF-Forms/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EMF Forms view modeling&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; approach.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image00.png&quot;&gt;&lt;img alt=&quot;image00&quot; class=&quot;alignnone size-full wp-image-27093&quot; height=&quot;413&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/08/image00.png&quot; width=&quot;707&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This EMF Forms editor is fully generic. Therefore no code generation is required. You only need to register the editor to the custom file extension for which you wish to use the editor. The following listing shows the registration for EMF model instances with a file ending “.task”. Please have a look at &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/tutorials/emf-forms-editors/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;this tutorial&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more about this.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;lt;pre lang=”xml&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;lt;extension point=&quot;org.eclipse.ui.editors&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;    &lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;lt;editor class=&quot;&lt;/span&gt;&lt;b&gt;org.eclipse.emfforms.spi.editor.GenericEditor&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&quot; default=&quot;true&quot; extensions=&quot;task&quot; icon=&quot;pathToYourIcon&quot; id=&quot;yourID&quot; name=&quot;Your Editor Name&quot;/&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;    &amp;lt;/extension&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;lt;/pre&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please provide feedback by &lt;/span&gt;&lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ecp&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;submitting bugs or feature requests&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; or &lt;/span&gt;&lt;a href=&quot;mailto:munich@eclipsesource.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;contact us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; if you are interested in enhancements or support.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div style=&quot;display: inline-block;&quot;&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?source=webclient&amp;amp;text=EMF+Forms+1.9.0+Feature%3A+Ecore+Editor+Reloaded+%26%238230%3B+again&amp;amp;via=eclipsesource&amp;amp;url=http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;&lt;img alt=&quot;Twitter&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/twitter.png&quot; title=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;+1&quot;&gt;&lt;img alt=&quot;Google+&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/google_plus.png&quot; title=&quot;Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.linkedin.com/cws/share?url=http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on LinkedIn&quot;&gt;&lt;img alt=&quot;LinkedIn&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/linkedin.png&quot; title=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/&amp;amp;t=EMF+Forms+1.9.0+Feature%3A+Ecore+Editor+Reloaded+%26%238230%3B+again&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot;&gt;&lt;img alt=&quot;Facebook&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/facebook.png&quot; title=&quot;Facebook&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/08/10/emf-forms-1-9-0-feature-ecore-editor-reloaded-again/#respond&quot;&gt;Leave a Comment&lt;/a&gt;. Tagged with &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf/&quot; title=&quot;emf Tag&quot;&gt;emf&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emfcp/&quot; title=&quot;emfcp Tag&quot;&gt;emfcp&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emfforms/&quot; title=&quot;emfforms Tag&quot;&gt;emfforms&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf/&quot; title=&quot;emf Tag&quot;&gt;emf&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emfcp/&quot; title=&quot;emfcp Tag&quot;&gt;emfcp&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emfforms/&quot; title=&quot;emfforms Tag&quot;&gt;emfforms&lt;/a&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 10 Aug 2016 09:04:09 +0000</pubDate>
+</item>
+<item>
+	<title>Michael Spector: Why we moved from Mesos to Yarn (and from Chronos to Airflow)</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-34385728.post-7215507450748478073</guid>
+	<link>http://spektom.blogspot.com/2016/08/why-we-moved-from-mesos-to-yarn-and.html</link>
+	<description>&lt;div&gt;We run daily Spark jobs that generate various reports: retention, cohorts, user activity, life time value, etc., and recently we've found ourselves in a situation that one person must wear operator's hat for watching this process, and re-starting tasks once they are failed or (which is much worse) are stuck. &lt;/div&gt;&lt;div&gt;Why this happened? There are many reasons for that. If you follow our &lt;a href=&quot;http://developers.appsflyer.com/&quot; style=&quot;color: #8c68cb; text-decoration: none;&quot; target=&quot;_blank&quot;&gt;tech blog&lt;/a&gt; you probably know that we run scheduled Spark jobs in Mesos on data stored in S3 either in SequenceFile or in Parquet format (&lt;a href=&quot;https://www.appsflyer.com/blog/the-bleeding-edge-spark-parquet-and-s3/&quot; style=&quot;color: #8c68cb; text-decoration: none;&quot; target=&quot;_blank&quot;&gt;here's good write-up about our process&lt;/a&gt;). It's funny that Spark was created as a proof of concept framework for Mesos, but it really seemed that these two guys are not playing together well enough. We tried enabling dynamic allocation, but we ended up running important jobs without it as they failed in 50% of cases because of some weird errors regarding lost shuffle blocks.&lt;/div&gt;&lt;div&gt;The most important issue was that sometimes Spark job would stuck on a last phase, and there was no way to revive it but enter the machine running this stuck executor via SSH, and kill the process. And this was part of the &quot;operator&quot; man's work. We suspected that this was related to Mesos somehow, but there was no proof.&lt;/div&gt;&lt;div&gt;Another problematic part in our pipeline was Chronos. Here are some issues that we encountered on daily basis:&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;Scheduled tasks were not executed. What??? Isn't it a scheduling framework? Right. But, sometimes, jobs depending on some parent task, which has finished successfully didn't run. Not that they didn't run on time - they didn't run at all.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;The same job was executed twice. This event was rare, but if it happened for some task that wrote to Redshift DB it could lead to really bad user experience to those trying to query at the same time.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;There is an option to specify multiple parent tasks, but this option simply didn't work.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;And there were tens of other less important, but still annoying issues. Frankly, it looks like Chronos is not in intensive development anymore, or it has reached its level of perfection, but we're not aware of this fact :-)&lt;/div&gt;&lt;div&gt;So, to kill two birds with one stone, we've decided to move to Yarn (as a replacement for Mesos) and to Airflow (as a replacement for Chronos) at once. Configuring Yarn is not a simplest task, especially if your target is having a cluster that runs both Spark and Hadoop jobs on it (Hadoop is still required for indexing data into Druid). But after reading numerous articles, and looking how Amazon EMR is configured we've reached working configuration of Yarn cluster with HA, which allows Spark/Hadoop to utilize resources fully using dynamic allocation. Needless to say that no jobs are stuck anymore.&lt;/div&gt;&lt;div&gt;As for Airflow, the most important advantages over Chronos for us are:&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;Tasks in Airflow are defined programmatically, so it's easier to generate dynamic workflows when we want to rebuild some data for a given time frame.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;Airflow written in Python, so it's really easy to hack and adapt it to your needs, or at least understand why something doesn't work as expected.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;Multiple parents are allowed.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;It's more stable.&lt;/li&gt;&lt;li style=&quot;line-height: 32px; margin-bottom: 15px; margin-top: 0px;&quot;&gt;It's in active development.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;We are still testing this constellation of Yarn and Airflow, but for now it looks like it works much much better.&lt;/div&gt;&lt;div&gt;Enjoy our production workflow screenshot as a complement to this post :)&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-xgBLYZJBXxI/V6rCjMFs0jI/AAAAAAAAqrE/fhs1dt1p8qoHhOWaY4RJnaNfOxiNz66NgCLcB/s1600/dag.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;362&quot; src=&quot;https://1.bp.blogspot.com/-xgBLYZJBXxI/V6rCjMFs0jI/AAAAAAAAqrE/fhs1dt1p8qoHhOWaY4RJnaNfOxiNz66NgCLcB/s640/dag.png&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 10 Aug 2016 05:59:29 +0000</pubDate>
+	<author>noreply@blogger.com (Michael)</author>
+</item>
+<item>
+	<title>Ian Skerrett: Eclipse IoT Day @ Thingmonk: New speakers</title>
+	<guid isPermaLink="false">http://ianskerrett.wordpress.com/?p=3691</guid>
+	<link>http://feedproxy.google.com/~r/IanSkerrett/~3/9ut0ZNZPzy8/</link>
+	<description>&lt;p&gt;Last month we announced the &lt;a href=&quot;https://ianskerrett.wordpress.com/2016/07/25/eclipse-iot-day-thingmonk/&quot;&gt;Eclipse IoT Day @ Thingmonk&lt;/a&gt; on September 12 in London, UK. We have now added two new speakers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://thingmonk.com/eclipse-day-talks.html#BorisAdryan&quot;&gt;Boris Adryan&lt;/a&gt; from Zühlke Engineering will be talk about Information Models and Ontologies for IoT. I first met Boris when he was speaking at a previous Thingmonk. Boris is a great speaker and very knowledgeable about ontologies. It will be a great talk.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://thingmonk.com/eclipse-day-talks.html#dangross&quot;&gt;Dan Gross&lt;/a&gt; from Samsung US will be speaking about the new Samsung ARTIK IDE that is based on Eclipse Che. It is exciting to see Samsung taking a serious look at how the developer tool experience needs to be specialized for IoT developers. I am looking forward to seeing how they are using Eclipse Che to make it easier to hack on the ARTIK board.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you are interested in IoT, I highly recommend attending Thingmonk and the Eclipse IoT Day. London has an amazing IoT community so there is also a great opportunity to meet people doing real IoT solutions. To top it off, the registration price for the the Eclipse IoT Day is £50 and a pass that includes Thingmonk is just £200. Eclipse IoT community members can also receive at 25% discount off the 3 day price. E-mail iot@eclipse.org for more details.&lt;/p&gt;
+&lt;p&gt;I hope to see you in London.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/ianskerrett.wordpress.com/3691/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/ianskerrett.wordpress.com/3691/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=ianskerrett.wordpress.com&amp;amp;blog=405862&amp;amp;post=3691&amp;amp;subd=ianskerrett&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IanSkerrett/~4/9ut0ZNZPzy8&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 09 Aug 2016 15:03:58 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,42 @@
+
+public class Person {
+	private float xScale;
+	private float yScale;
+	private float angle;
+	
+	public void draw(Window window) {
+		  window.translate(xScale, yScale);
+		  window.ellipse(50, 250, 50, 50);
+		  window.line(50, 275, 50, 350);
+		  window.line(50, 350, 20, 400);
+		  window.line(50, 350, 80, 400);
+		  window.line(50, 320, 20, 300);
+		  window.line(50, 320, 80, 300);
+		  window.translate(0, 0);
+	}
+	
+	public void move(Window window)
+	{
+		    if (window.key == 'd') {
+		    	xScale = xScale + 50;
+		    } else if (window.key == 'a') {
+		    	xScale = xScale - 50;
+		    }
+		    else if(window.key == 'w')
+		    {
+		    	yScale = yScale - 50;
+		    }
+		    else if(window.key == 's')
+		    {
+		    	yScale = yScale + 50;
+		    }
+	}
+	
+	public void rotate(Window window)
+	{
+		if(window.key == '/')
+		{
+			angle = angle + window.radians(45f);
+		}
+	}
+}

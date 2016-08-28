@@ -1,0 +1,91 @@
+
+import processing.awt.PSurfaceAWT;
+import processing.core.PApplet;
+import processing.core.PConstants;
+
+import java.awt.Dimension;
+import java.awt.event.MouseEvent;
+
+import javax.swing.JFrame;
+
+/*
+ * multiple classes
+ *	- shape classes
+ *	- window 
+ *	- house
+ *	- main method
+ *	- drawing surface/canvas (extends PApplet)
+ * commenting
+ * variable
+ */
+
+public class House{
+	
+	private float xScale;
+	private float yScale;
+	private float xPos;
+	private float yPos;
+
+	public void draw(Window window)
+	{
+		if(xScale == 0)
+		{
+			xScale = window.width/500f;
+			yScale = window.height/500f;
+		}
+		
+		window.stroke(0);
+		window.translate(xPos, yPos);
+		window.scale(xScale, yScale);
+		window.rect(100, 200, 300, 200);
+		window.rect(150, 250, 50, 50);
+		window.rect(300, 250, 50, 50);
+		window.rect(225, 300, 50, 100);
+		window.triangle(100, 200, 400, 200, 250, 50);
+	}	
+	
+	public void move(Window window)
+	{
+		if (window.key == window.CODED)
+		{
+			System.out.println("key");
+		    if (window.keyCode == window.RIGHT)
+		    {
+		    	xPos = xPos + 50;
+		    } else if (window.keyCode == window.LEFT)
+		    {
+		    	xPos = xPos - 50;
+		    }
+		    else if(window.keyCode == window.UP)
+		    {
+		    	yPos = yPos - 50;
+		    }
+		    else if(window.keyCode == window.DOWN)
+		    {
+		    	yPos = yPos + 50;
+		    }
+	}
+	}
+	
+	public void size(Window window)
+	{
+		if(window.key == '+')
+		{
+			xScale = xScale + 50;
+			yScale = yScale + 50;
+		}
+		if(window.key == '-')
+		{
+			xScale = xScale - 50;
+			yScale = yScale - 50;
+		}
+	}
+}
+
+
+
+
+
+
+
+
